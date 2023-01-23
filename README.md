@@ -16,7 +16,7 @@ This is a clone website built following th instructions of a Udemy course by Ang
 
 ## Links
 
-- Live site url: [Tindog Website](https://)
+- Live site url: [Tindog Website](https://dytoma.github.io/tindog-website-clone/)
 
 ## Screenshot
 
